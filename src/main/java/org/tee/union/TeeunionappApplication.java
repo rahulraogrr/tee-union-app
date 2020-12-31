@@ -1,0 +1,13 @@
+package org.tee.union;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TeeunionappApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TeeunionappApplication.class, args);
+	}
+
+}
