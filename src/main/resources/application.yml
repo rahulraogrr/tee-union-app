@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: h2dev
+    active: dev
   application:
     name: TEE 1104 Union
     admin:
